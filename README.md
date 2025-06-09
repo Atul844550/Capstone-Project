@@ -1,4 +1,5 @@
 The application opens your webcam, detects objects in front of it using YOLOv8, and speaks the names of the objects it sees aloud through your computer speakers.
+Object Detection and Voice Interaction Desktop App for Visually Impaired
 
 Key Functionalities:
 Feature	                          Description
